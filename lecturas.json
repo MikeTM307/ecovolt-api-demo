@@ -1,0 +1,6 @@
+[
+  { "id": 1, "fecha": "2026-09-18", "momento": "viernes", "valor_kwh": 1520.4 },
+  { "id": 2, "fecha": "2026-09-21", "momento": "lunes",   "valor_kwh": 1531.9 },
+  { "id": 3, "fecha": "2026-09-25", "momento": "viernes", "valor_kwh": 1590.2 },
+  { "id": 4, "fecha": "2026-09-28", "momento": "lunes",   "valor_kwh": 1594.1 }
+]
